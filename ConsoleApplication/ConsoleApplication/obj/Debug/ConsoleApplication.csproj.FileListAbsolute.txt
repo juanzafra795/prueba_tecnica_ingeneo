@@ -1,0 +1,13 @@
+C:\Temp\Prueba\PuntoColombia\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Temp\Prueba\PuntoColombia\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Temp\Prueba\PuntoColombia\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Temp\Prueba\PuntoColombia\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Temp\Prueba\PuntoColombia\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Temp\Prueba\PuntoColombia\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\Juan.Zafra\Escritorio\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\Juan.Zafra\Escritorio\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\Juan.Zafra\Escritorio\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\Juan.Zafra\Escritorio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Juan.Zafra\Escritorio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Juan.Zafra\Escritorio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\Juan.Zafra\Escritorio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
